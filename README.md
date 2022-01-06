@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working as Software Engineer - II.
+- 🌱 I’m currently learning new NODE JS frameworks for better performance and experience.
+- 📫 How to reach me: singhjaskaran975@gmail.com
